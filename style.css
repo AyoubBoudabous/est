@@ -1,0 +1,13 @@
+
+body{
+    color: red;
+}
+@media all and (max-width:218px)
+{.video{
+    width: 250px;
+}}
+.video{
+    margin-top: 4%;
+    margin-left: 13.5%;
+    width: 72%;
+}
